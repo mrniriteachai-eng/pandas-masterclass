@@ -145,7 +145,8 @@ PANDAS-MASTERCLASS/
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎥 Full YouTube Course
 📺 Watch Complete Pandas Masterclass:
-👉 [  ]
+👉 [ https://youtu.be/bx_ziVCEEK8?si=HyoNlxgmeDI8fLiM ]
+playlist : https://youtube.com/playlist?list=PL7JCCO4kMduqEi-zASo_V1hWh5QVUEoL4&si=-hi_vZiq9OZMmun7
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🌐 Connect With Me
 🔗 GitHub
